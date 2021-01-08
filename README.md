@@ -40,7 +40,7 @@ Faculty
 <tr>
 <td>B-Tech(CSE(CSF-IBM)</td>
 <td>Fet</td>
-<td> 1/19/FET/BCS/214</td>
+<td> 1/19/FET/BCS/181</td>
 </tr>
 </table>
     <h2>Volunteer Experience :</h2>
