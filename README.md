@@ -27,10 +27,10 @@ My Resume
     <h5><p>I am a fresher and an enthusiastic,professional,loyal and hardworking person. I like to do work with someone who is ambitious,innovative and who gives the best opportunities to thrive</p></h5>
 <h2> Personal information :</h2>
 <ul>
-<li> Father's Name : Rakesh kumar</li>
+<li> Father's Name : Ranjeet kumar</li>
 <li> Religion : Hindu </li>
 <li> Nationality : Indian </li>
-<li> Date of Birth : 26 october 2000</li>
+<li> Date of Birth : 31 july 2001</li>
 </ul>
 <h2> Qualification : </h2>
 <table border = "1"><tr><th>Branch</th><th>
