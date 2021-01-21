@@ -74,28 +74,3 @@ Faculty
 </table>
 </body>
     </html>
-CSS
-body{
-    font-family:sans-serif;
-    background-color: white;
-}
-h1
-{
-    color:black;
-    font-size:40px;
-    font-family:sans-serif;
-    text-align:center;
-}
-h2
-{
-    text-align:left;
-    color:dimgray;
-    
-}
-h4{
-    text-align: left;
-    top:10%;
-    color:darkslategrey;
-     margin-left:auto;
-    margin-right:auto;
-}
